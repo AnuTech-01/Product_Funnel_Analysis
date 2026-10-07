@@ -165,8 +165,8 @@ recovered revenue from a single campaign.**
 
 **Anu** · 
 
-LinkedIn : [(https://www.linkedin.com/in/anu-jangid-726564328/)]
+LinkedIn : https://www.linkedin.com/in/anu-jangid-726564328/
 
-Website : [(https://anu-jangid2208-portfolio.netlify.app/)]
+Website : https://anu-jangid2208-portfolio.netlify.app/
 
-Github : [(https://github.com/AnuTech-01)]
+Github : https://github.com/AnuTech-01
